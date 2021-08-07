@@ -12,4 +12,4 @@ end
 puts "数字を入力してください。"
 input =gets.to_i
 puts "結果"
-puts fizz_buzz(input
+puts fizz_buzz(input)
