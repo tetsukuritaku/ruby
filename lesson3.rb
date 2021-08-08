@@ -1,1 +1,1 @@
-puts "webcamp".upcas
+puts "webcamp".upcase
